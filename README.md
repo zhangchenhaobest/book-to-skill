@@ -1,3 +1,29 @@
+# book-to-skill
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+把任意技术书 PDF 转成可随时学习、查阅、使用的 Claude Code 技能。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <p align="center">
   <img src="docs/assets/banner.webp" alt="Booklin, the book-to-skill wizard, holding an open book whose pages scatter into sparkles that settle into an ordered grid" width="100%">
 </p>
